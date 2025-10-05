@@ -7,7 +7,7 @@ This tool is perfect for learning, teaching, or prototyping strategies in comput
 
 ## 📘 How It Works
 
-[Check the full project]([https://www.youtube.com/@Markh4ck](https://www.markaliaga.com/projects/option-strategy-visualizer))  
+[Check the full project](https://www.markaliaga.com/projects/option-strategy-visualizer)  
 
 
 This Python script generates all valid combinations of options (Calls and Puts, Long and Short) and lets you:
